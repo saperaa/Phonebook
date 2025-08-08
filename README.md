@@ -151,7 +151,7 @@ Phone Number: 4876321
 
 ## 👥 Contributors
 
-- Mohamed Alaa (23101900)
+- Mohamed Alaa 
 
 
 ## 🛠️ Technical Details
