@@ -24,13 +24,13 @@ A command-line phonebook application written in Java that allows users to manage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Phonebook.git
+   git clone https://github.com/saperaa/Phonebook.git
    cd Phonebook
    ```
 
 2. Compile the Java program:
    ```bash
-   javac -d . Phonebook/src/Main.java
+   javac Main.java
    ```
 
 3. Run the application:
@@ -119,12 +119,11 @@ QUIT: Exit (without saving the directory).
 
 ```
 Phonebook/
-├── Phonebook/
-│   ├── src/
-│   │   └── Main.java          # Main application file
-│   ├── book.txt               # Sample phonebook data
-│   └── Phonebook.iml          # IntelliJ IDEA module file
-└── README.md                  # This file
+├── Main.java                  # Main application file
+├── book.txt                   # Sample phonebook data
+├── README.md                  # This file
+├── .gitignore                 # Git ignore file
+└── Phonebook.rar              # Compressed archive
 ```
 
 ## 🔍 Example Session
@@ -152,7 +151,7 @@ Phone Number: 4876321
 
 ## 👥 Contributors
 
-- Mohamed Alaa 
+- Mohamed Alaa (23101900)
 
 
 ## 🛠️ Technical Details
